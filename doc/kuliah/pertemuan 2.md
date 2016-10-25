@@ -28,13 +28,13 @@ Keamanan jaringan Anda adalah sama pentingnya dengan mengamankan situs web Anda 
 
 Berikut adalah kerentanan atas 5 jaringan keamanan yang sering diabaikan dari ulasan yang khas, dan beberapa tips untuk menghindari membuat kesalahan yang sama.
 
-**A. Patch yang Hilang **
+**A. Patch yang Hilang**
 
 Yang dibutuhkan untuk seorang penyerang, atau insider nakal, adalah patch hilang pada server yang memungkinkan prompt perintah yang tidak berkepentingan atau jalan backdoor lain ke dalam lingkungan web. Tentu, kita harus berhati-hati ketika menerapkan patch ke server tetapi tidak berlaku patch sama sekali (saya sering melihat patch dating kembali 10 + tahun hilang) hanya membuat terlalu mudah.
 
 Solusi: Ikuti praktik keamanan jaringan terbaik dengan memperbarui sistem operasi dan perangkat lunak lain yang berjalan di atasnya dengan patch keamanan terbaru. Terlalu banyak insiden terjadi karena hacker kriminal memanfaatkan dan mengeksploitasi sistem un-ditambal.
 
-**B.Lemah atau bawaan password **
+**B.Lemah atau bawaan password**
 
 Password bahkan tidak harus menjadi bagian dari diskusi kerentanan keamanan jaringan mengetahui apa yang kita ketahui sekarang. Namun, aplikasi banyak web, sistem manajemen konten, dan bahkan database server masih dikonfigurasi dengan lemah atau bawaan password. Siapa yang butuh file inclusion atau SQL injection ketika sistem file atau database bisa diakses langsung?
 
