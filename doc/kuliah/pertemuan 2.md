@@ -40,13 +40,13 @@ Password bahkan tidak harus menjadi bagian dari diskusi kerentanan keamanan jari
 
 Solusi: Ganti dan tes untuk password yang lemah secara teratur dan mempertimbangkan menggunakan alat manajemen password. Menerapkan penyusup lockout setelah sejumlah didefinisikan usaha login yang gagal.
 
-** C. Rulebases firewall terkonfigurasi**
+**C. Rulebases firewall terkonfigurasi**
 
 Salah satu yang terbesar, yang paling berbahaya, asumsi adalah bahwa segala sesuatu baik di firewall karena sudah bekerja dengan baik. Menggali ke dalam rulebase firewall yang belum pernah dianalisis pasti akan muncul kelemahan konfigurasi serius yang memungkinkan akses yang tidak sah ke dalam lingkungan web. Kadang-kadang akses langsung sementara lain waktu itu tidak langsung dari segmen jaringan lain termasuk Wi-Fi - bagian dari jaringan yang mungkin telah lama dilupakan.
 
 Solusi: Mulailah dengan kebijakan keamanan organisasi Anda; salah satu yang mencerminkan situasi saat ini dan kebutuhan bisnis mendatang. Setelah semua, rulebase firewall Anda adalah teknis pelaksanaan kebijakan keamanan ini. Tinjau secara teratur dan tetap relevan. OWASP memberikan beberapa petunjuk yang baik untuk membangun panduan keamanan operasional
 
-** D. Telepon genggam**
+**D. Telepon genggam**
 
 Ponsel, tablet, dan laptop tidak terenkripsi menimbulkan beberapa risiko terbesar terhadap keamanan web. Pikirkan tentang semua koneksi VPN, password cache di web browser, dan email yang berisi informasi login sensitif yang Anda - dan mungkin orang lain yang bertanggung jawab untuk mengelola lingkungan web Anda - telah disimpan pada perangkat mobile. Penggunaan tanpa jaminan (dan nakal) Wi-Fi melalui perangkat mobile adalah icing pepatah pada kue.
         
@@ -71,7 +71,7 @@ Bahkan dalam lingkungan host di mana penjualan dan repetisi pemasaran bersemanga
 
 Dalam keamanan komputer, kerentanan adalah kelemahan yang memungkinkan penyerang untuk mengurangi sistem jaminan informasi. Kerentanan adalah persimpangan dari tiga unsur:. Kerentanan sistem atau cacat, akses penyerang untuk cacat, dan kemampuan penyerang untuk mengeksploitasi cacat, Untuk mengeksploitasi kerentanan, penyerang harus memiliki minimal satu alat yang berlaku atau teknik yang dapat terhubung ke kelemahan sistem. Dalam kerangka ini, kerentanan juga dikenal sebagai serangan permukaan.
 
-*Saran**
+**Saran**
 
 Selanjutnya untuk mendalami materi GIS lagi dengan membaca sumber-sumber yang tersedia, dan melakukan praktikum mandiri 
 
@@ -82,14 +82,13 @@ Link Github 	            :  https://github.com/nadiaaaAR/Keamanan-Jaringan
 Referensi	                :	 https://en.wikipedia.org/wiki/Vulnerability_(computing) 
 
 Scan Plagiarisme          :
-   
-  1.	searchenginereport  :   https://drive.google.com/open?id=0B831iVXSuoJcX3p3ZFlBTTFqbTg  
-        
-  2.	smallseotools	      :   https://drive.google.com/open?id=0B831iVXSuoJcZGdMblB5R2FVZ0U 
+   1.	searchenginereport  :   https://drive.google.com/open?id=0B831iVXSuoJcX3p3ZFlBTTFqbTg  
+   2.	smallseotools	      :   https://drive.google.com/open?id=0B831iVXSuoJcZGdMblB5R2FVZ0U 
   
 -------
 
-> - Fullname 				 : Nadia Ayu Lestari Arifin
+
+> - Fullname         : NADIA AYU LESTARI ARIFIN
 > - Nickname 				 : Nadia
 > - NPM		 				   : 1144002
 > - Class	 				   : D4 TI 3C
