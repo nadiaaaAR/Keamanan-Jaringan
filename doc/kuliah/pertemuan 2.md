@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/nadiaaaAR/Keamanan-Jaringan/blob/master/img/backdoor.PNG">
+  <img src="https://github.com/nadiaaaAR/Keamanan-Jaringan/blob/master/img/backdoor.jpg">
 </p>
 
 
