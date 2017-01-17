@@ -1,6 +1,6 @@
 <h3 align="center">NETWORK SECURITY</h3>
 <h3 align="center">
-”REMOTE AUTHENTICATION DIAL-IN PENGGUNA SERVICE (RADIUS)”
+”REMOTE AUTHENTICATION DIAL-IN USER SERVICE (RADIUS)”
 </h3>
 
 
@@ -11,7 +11,7 @@
 
 **1. Latar Belakang**
 
-Remote Authentication Dial-In Pengguna Service (RADIUS) adalah klien server protokol / dan software yang memungkinkan server akses remote untuk berkomunikasi dengan server pusat untuk mengotentikasi dial-in pengguna dan mengotorisasi akses mereka ke sistem atau layanan yang diminta. RADIUS memungkinkan perusahaan untuk mempertahankan profil pengguna di database pusat bahwa semua server remote dapat berbagi. Ini memberikan keamanan yang lebih baik, memungkinkan perusahaan untuk mengatur kebijakan yang dapat diterapkan pada titik jaringan tunggal diberikan. Memiliki layanan pusat juga berarti bahwa lebih mudah untuk melacak penggunaan untuk penagihan dan untuk menjaga statistik jaringan. Dibuat oleh Livingston (sekarang dimiliki oleh Lucent), RADIUS adalah de facto standar industri yang digunakan oleh sejumlah perusahaan produk jaringan dan merupakan standar IETF diusulkan.
+Remote Authentication Dial-In User Service (RADIUS) adalah klien server protokol / dan software yang memungkinkan server akses remote untuk berkomunikasi dengan server pusat untuk mengotentikasi dial-in pengguna dan mengotorisasi akses mereka ke sistem atau layanan yang diminta. RADIUS memungkinkan perusahaan untuk mempertahankan profil pengguna di database pusat bahwa semua server remote dapat berbagi. Ini memberikan keamanan yang lebih baik, memungkinkan perusahaan untuk mengatur kebijakan yang dapat diterapkan pada titik jaringan tunggal diberikan. Memiliki layanan pusat juga berarti bahwa lebih mudah untuk melacak penggunaan untuk penagihan dan untuk menjaga statistik jaringan. Dibuat oleh Livingston (sekarang dimiliki oleh Lucent), RADIUS adalah de facto standar industri yang digunakan oleh sejumlah perusahaan produk jaringan dan merupakan standar IETF diusulkan.
 
 
 
@@ -29,6 +29,11 @@ RADIUS menggunakan konsep AAA (Authentication, Authorization, Accounting) yaitu 
 <p>Authentication digunakan untuk membatasi pengguna yang tidak memiliki hak akses agar tidak masuk ke dalam jaringan. Jika pengguna ingin masuk ke jaringan tersebut maka harus diidentifikasi terlebih dahulu agar administrator mengetahui apakah pengguna tersebut memiliki hak akses atau tidak untuk masuk. Metode yang paling umum digunakan untuk mengetahui pengguna yang mengakses jaringan adalah dengan login menggunakan password.</p>
 •	Authorization<br>
 <p>Authorization adalah proses lanjutan dari authentication, yaitu memberikan batasan-batasan hak untuk mengakses jaringan, agar pengguna hanya mengakses sesuai hak akses yang dimilikinya. Metode yang paling sering digunakan untuk memberikan pembatasan ini adalah dengan menggunakan atribut yang dirangkai untuk menghasilkan kebijakan tentang hak akses pengguna yang telah disesuaikan dengan informasi yang ada di database.</p>
+
+<p align="center">
+  <img src="https://github.com/nadiaaaAR/Keamanan-Jaringan/blob/master/img/AAA.gif">
+</p>
+
 •	Accounting<br>
 <p>Accounting digunakan untuk mengetahui informasi berapa lama pengguna terkoneksi dengan jaringan, dan informasi berapa besar data transaksi komunikasi yang melalui jaringan tersebut. Informasi ini sangat berguna untuk pengguna dan administrator untuk membuat laporan pemakaian, menganalisis karakteristik jaringan, melakukan proses auditing, dan lain-lain. </p>
 
@@ -38,7 +43,7 @@ RADIUS menggunakan konsep AAA (Authentication, Authorization, Accounting) yaitu 
 
 **a. Kesimpulan**
 
-Remote Authentication Dial-In Pengguna Service (RADIUS) adalah klien server protokol / dan software yang memungkinkan server akses remote untuk berkomunikasi dengan server pusat untuk mengotentikasi dial-in pengguna dan mengotorisasi akses mereka ke sistem atau layanan yang diminta. RADIUS menggunakan konsep AAA (Authentication, Authorization, Accounting).
+Remote Authentication Dial-In user Service (RADIUS) adalah klien server protokol / dan software yang memungkinkan server akses remote untuk berkomunikasi dengan server pusat untuk mengotentikasi dial-in pengguna dan mengotorisasi akses mereka ke sistem atau layanan yang diminta. RADIUS menggunakan konsep AAA (Authentication, Authorization, Accounting).
 
 *b. Saran**
 
